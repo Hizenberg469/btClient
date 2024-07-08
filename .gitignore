@@ -1,0 +1,6 @@
+*vsidx
+*.opendb
+.vs
+out
+CMakePresets.json
+utils/*
